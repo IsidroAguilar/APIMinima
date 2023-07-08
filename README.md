@@ -77,6 +77,5 @@ Aquí se incluyen algunos recursos adicionales que pueden ser útiles para compr
 
 - [Documentación de ASP.NET Core](https://docs.microsoft.com/aspnet/core)
 - [Documentación de C#](https://docs.microsoft.com/dotnet/csharp)
-- [Tutorial de ASP.NET Core en Microsoft Learn](https://docs.microsoft.com/learn/paths/build-web-apps-with-aspnet-core/)
 
 ¡Gracias por tu interés en este proyecto! Si tienes alguna pregunta o consulta, no dudes en comunicarte con nosotros. ¡Disfruta aprendiendo y desarrollando APIs mínimas en ASP.NET Core!
